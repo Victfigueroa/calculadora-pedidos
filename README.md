@@ -32,12 +32,15 @@ Podríamos obtener resultados incorrectos sin darnos cuenta. Las pruebas empezar
 Dividiendo el sistema en módulos probables por separado, automatizando pruebas en CI/CD, usando inyección de dependencias para facilitar mocks, y manteniendo cobertura de pruebas alta en componentes críticos. Así se asegura calidad al crecer el sistema.
 
 ---
+## Capturas Entregables.
+
 ## Captura de pantalla de ejecución de pruebas verdes.
 ![Image20250623223836](https://github.com/user-attachments/assets/6af49119-e9e8-43d9-a1d1-3c9c317f4b81)
 ## Captura de pipeline ejecutado en GitHub.
 
+![Captura de pantalla 2025-06-23 225014](https://github.com/user-attachments/assets/82831b4c-6055-4f52-9eab-f4537fb5653f)
 
-
+---
 ## Reflexión final
 
 En un entorno profesional DevOps, lo que hicimos hoy refleja prácticas fundamentales: integración continua, pruebas automatizadas y control de versiones. Al crear una lógica de negocio, probarla con JUnit, simular dependencias con mocks y automatizar todo con GitHub Actions, experimentamos un ciclo completo DevOps. Este flujo garantiza calidad constante, evita errores en producción y permite despliegues seguros. Por ejemplo, si trabajáramos en una aplicación de e-commerce, este mismo enfoque permitiría validar descuentos, envíos y lógica crítica sin intervención manual. Además, aplicar esto en proyectos personales mejora la disciplina técnica, fortalece el portafolio profesional y demuestra habilidades clave muy valoradas en equipos modernos.

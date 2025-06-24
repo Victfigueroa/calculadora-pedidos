@@ -32,6 +32,11 @@ Podríamos obtener resultados incorrectos sin darnos cuenta. Las pruebas empezar
 Dividiendo el sistema en módulos probables por separado, automatizando pruebas en CI/CD, usando inyección de dependencias para facilitar mocks, y manteniendo cobertura de pruebas alta en componentes críticos. Así se asegura calidad al crecer el sistema.
 
 ---
+## Captura de pantalla de ejecución de pruebas verdes.
+![Image20250623223836](https://github.com/user-attachments/assets/6af49119-e9e8-43d9-a1d1-3c9c317f4b81)
+## Captura de pipeline ejecutado en GitHub.
+
+
 
 ## Reflexión final
 
